@@ -1,0 +1,5 @@
+Pray,Praying is good,false
+cook,healthy home made,false
+dance,its an exercise,false
+listen,listen to 2 podcasts,true
+hap,sjnis,false

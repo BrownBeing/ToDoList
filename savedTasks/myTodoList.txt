@@ -1,0 +1,4 @@
+pray,monday prayer call,false
+eat,eat healthily,false
+sing,worship God,false
+cook,something delicious,false
